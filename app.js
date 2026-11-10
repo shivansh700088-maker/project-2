@@ -5,6 +5,7 @@ const searchInput = document.getElementById('ip');
             const query = searchInput.value.trim();            
             if (query !== "") {
                 window.open(`https://www.google.com/search?q=${encodeURIComponent(query)}`, '_blank');
+                searchInput.value = "";
             } else {
                 alert("Please enter a query to search!");
             }

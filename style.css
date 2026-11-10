@@ -37,3 +37,9 @@ h1{
 #sbtn:hover {
     background-color: darkblue; 
 }
+#footer{
+    margin-top: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

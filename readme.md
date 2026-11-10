@@ -25,4 +25,4 @@ A simple, practice-focused web project that creates a clean, custom user interfa
 
 1. Clone or download the project files into a local folder.
 2. Open `index.html` directly in any modern web browser.
-3. Type your search query and press **Enter** or click the **Search** button.
+3. Type your search query and press **Enter** or click the **Search** button

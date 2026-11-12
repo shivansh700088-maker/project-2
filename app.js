@@ -18,4 +18,4 @@ const searchInput = document.getElementById('ip');
                 searchOnGoogle();
             }
         });
-        //add new features- form
+        //add new features - form

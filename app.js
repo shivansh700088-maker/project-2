@@ -18,3 +18,5 @@ const searchInput = document.getElementById('ip');
                 searchOnGoogle();
             }
         });
+
+        //add new feature - button
